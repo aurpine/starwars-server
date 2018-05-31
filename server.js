@@ -8,7 +8,7 @@ import cors from 'cors';
 
 import schema from './data/schema';
 
-const PORT = 8080;
+const PORT = 8888;
 
 const app = express();
 
