@@ -10,9 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/apollographql/starwars-server.git"
   },
-  "engines": {
-    "npm": "5.7.x"
-  },
   "keywords": [
     "Node.js",
     "Javascript",
