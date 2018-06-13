@@ -2,7 +2,7 @@ import express from 'express';
 import bodyParser from 'body-parser';
 import { graphqlExpress, graphiqlExpress } from 'apollo-server-express';
 import { execute, subscribe } from 'graphql';
-import { createServer } from 'http';
+import { createServer } from 'https';
 import { SubscriptionServer } from 'subscriptions-transport-ws';
 import cors from 'cors';
 
